@@ -1,0 +1,101 @@
+Patient_ID,Name,Department,Doctor_Name,Admission_Date,Discharge_Date,Stay_Days,Readmission,Amount_Billed,Payment_Mode,Notes
+P001,Patrick Sanchez,Cardiology,Dr. Mehta,05-08-2025,10-08-2025,5,No,45505.92,Credit Card,Duplicate spelling
+P002,Megan Mcclain,Oncology,Dr. White,30-04-2025,,,No,32794.54,Cash,Duplicate spelling
+P003,Amanda Davis,orthopedics,Dr. Singh,19-04-2025,30-04-2025,11,Yes,46734.41,Online,Typo in dept
+P004,Alyssa Gonzalez,pediatrics,Dr. Fernandes,18-05-2025,01-06-2025,14,Yes,10101.02,Credit Card,Missing discharge
+P005,Jennifer Cole,pediatrics,Dr. Fernandes,07-08-2025,20-08-2025,13,YES,11865.44,online,
+P006,Abigail Shaffer,neurology,Dr. Rao,27-05-2025,07-06-2025,11,YES,15575.87,Credit Card,
+P007,Donald Lewis,Orthopedics,Dr. Singh,16-08-2025,31-08-2025,15,Yes,25906.94,cheque,Missing discharge
+P008,Brandon Davis,orthopedics,Dr. Singh,29-08-2025,10-09-2025,12,Yes,38502.21,Online,Duplicate spelling
+P009,Dennis Williams,Orthopedics,Dr. Patel,14-09-2025,20-09-2025,6,YES,17078.83,credit card,
+P010,Valerie Gray,orthopedics,Dr. Patel,01-07-2025,09-07-2025,8,Yes,16604.06,credit card,NULL
+P011,Mark Mcclure,oncology,Dr. Banerjee,19-07-2025,31-07-2025,12,No,19568.41,Cheque,Duplicate spelling
+P012,Michele Williams,Neurology,Dr. Rao,12-06-2025,20-06-2025,8,yes,24909.8,Online,Duplicate spelling
+P013,Victoria Wyatt,Oncology,Dr. White,17-05-2025,01-06-2025,15,No,39509.53,online,Duplicate spelling
+P014,Donald Reid,Cardiology,Dr. Iyer,18-09-2025,27-09-2025,9,NO,58409.31,Cash,
+P015,Henry Santiago,Neurology,Dr. Rao,12-06-2025,19-06-2025,7,NO,28912.09,cheque,
+P016,Maria Lynch,Pediatrics,Dr. Shah,17-08-2025,20-08-2025,3,NO,51291.81,Cheque,NULL
+P017,Danielle Ford,Pediatrics,Dr. Shah,06-05-2025,20-05-2025,14,Yes,37941.95,cheque,
+P018,Margaret Hawkins DDS,cardiology,Dr. Iyer,25-05-2025,09-06-2025,15,No,8185.88,Credit Card,
+P019,Amy Underwood,Oncology,Dr. White,13-09-2025,23-09-2025,10,No,41286.3,Online,Missing discharge
+P020,Derek Clark,Neurology,Dr. Rao,06-09-2025,16-09-2025,10,No,44212.19,online,Missing discharge
+P021,Emily Rios,Oncology,Dr. Banerjee,22-07-2025,27-07-2025,5,NO,6156.88,Cheque,Duplicate spelling
+P022,Maria Thomas,Orthopedics,Dr. Patel,18-06-2025,,,Yes,17591.8,Cash,Missing discharge
+P023,Justin Baker,Cardiology,Dr. Mehta,30-04-2025,09-05-2025,9,YES,12277.15,cheque,NULL
+P024,Kevin Cox,Oncology,Dr. Banerjee,25-07-2025,28-07-2025,3,yes,24486.37,online,Typo in dept
+P025,Ann Williams,Cardiology,Dr. Mehta,29-04-2025,,,NO,49032.59,Credit Card,NULL
+P026,Christopher Becker,orthopedics,Dr. Patel,24-04-2025,28-04-2025,4,No,20319.98,Cheque,
+P027,James Ferrell,Oncology,Dr. White,27-07-2025,,,Yes,58294.79,Cheque,NULL
+P028,Juan Dunlap,oncology,Dr. Banerjee,14-07-2025,29-07-2025,15,Yes,14055.04,Cash,Typo in dept
+P029,Melanie Herrera,Pediatrics,Dr. Fernandes,13-08-2025,26-08-2025,13,YES,41402.92,cheque,NULL
+P030,Gina Carter,Orthopedics,Dr. Singh,24-05-2025,26-05-2025,2,YES,8352.67,credit card,
+P031,Troy Liu,Cardiology,Dr. Iyer,03-05-2025,18-05-2025,15,No,8128.38,Credit Card,NULL
+P032,Pamela Romero,cardiology,Dr. Mehta,24-05-2025,29-05-2025,5,Yes,56787.79,Cheque,Duplicate spelling
+P033,Elizabeth Fowler,Neurology,Dr. Kumar,23-04-2025,01-05-2025,8,YES,36087.48,credit card,Missing discharge
+P034,James Martin,Orthopedics,Dr. Singh,30-07-2025,07-08-2025,8,NO,30147.35,Credit Card,
+P035,Tamara George,Oncology,Dr. White,01-09-2025,,,YES,19586.02,credit card,
+P036,Timothy Koch,Orthopedics,Dr. Singh,06-07-2025,15-07-2025,9,NO,38642.28,Cash,Duplicate spelling
+P037,Cynthia Allen,pediatrics,Dr. Shah,11-09-2025,15-09-2025,4,Yes,53934.2,Online,Missing discharge
+P038,Angelica Tucker,Pediatrics,Dr. Shah,22-07-2025,27-07-2025,5,NO,32797.5,cash,
+P039,Kim Martinez,Cardiology,Dr. Iyer,16-04-2025,18-04-2025,2,NO,47411.56,cash,NULL
+P040,Joshua Baker,Oncology,Dr. Banerjee,09-08-2025,12-08-2025,3,No,35007.47,credit card,Duplicate spelling
+P041,Tracey Hickman,neurology,Dr. Kumar,19-09-2025,21-09-2025,2,NO,54443.98,Cash,Missing discharge
+P042,Christina Collins,Orthopedics,Dr. Patel,27-08-2025,03-09-2025,7,yes,58561.04,Online,NULL
+P043,Jessica Holmes,Orthopedics,Dr. Patel,11-08-2025,13-08-2025,2,NO,48031.26,online,NULL
+P044,Austin Smith,pediatrics,Dr. Shah,26-04-2025,29-04-2025,3,Yes,52222.63,Cheque,NULL
+P045,Daniel Jones,Oncology,Dr. Banerjee,19-07-2025,02-08-2025,14,No,6301.54,Cheque,Typo in dept
+P046,Austin Johnson,pediatrics,Dr. Fernandes,03-08-2025,17-08-2025,14,NO,40281.5,online,Duplicate spelling
+P047,David Caldwell,Pediatrics,Dr. Shah,06-06-2025,12-06-2025,6,YES,57939.39,cash,
+P048,Miranda Khan,cardiology,Dr. Iyer,14-05-2025,28-05-2025,14,yes,38341.49,Credit Card,Typo in dept
+P049,Richard Aguirre,neurology,Dr. Kumar,23-07-2025,05-08-2025,13,Yes,33595.62,Cheque,Missing discharge
+P050,Matthew Gomez,Oncology,Dr. White,09-05-2025,16-05-2025,7,NO,41486.31,Credit Card,Missing discharge
+P051,Nicholas Nunez,neurology,Dr. Rao,21-06-2025,28-06-2025,7,NO,35492.69,Cheque,Typo in dept
+P052,James Morgan,oncology,Dr. White,06-08-2025,12-08-2025,6,YES,50854.88,cash,Missing discharge
+P053,Corey Herrera,Orthopedics,Dr. Singh,17-09-2025,28-09-2025,11,NO,30574.35,cheque,NULL
+P054,Donald Wright,Neurology,Dr. Rao,30-04-2025,14-05-2025,14,No,41236.79,cash,Duplicate spelling
+P055,Robert Chase,Neurology,Dr. Rao,29-09-2025,,,NO,17355.24,Cheque,NULL
+P056,Zachary Huff,Cardiology,Dr. Mehta,22-04-2025,01-05-2025,9,Yes,30047.89,Cheque,Typo in dept
+P057,Sarah Martin,Oncology,Dr. Banerjee,21-04-2025,03-05-2025,12,Yes,54096.29,Credit Card,Typo in dept
+P058,Dr. Steven Martin,Orthopedics,Dr. Patel,06-07-2025,19-07-2025,13,yes,7762.01,Cheque,
+P059,Mrs. Rachel Gibson,Oncology,Dr. White,03-04-2025,15-04-2025,12,YES,37749.88,cheque,Duplicate spelling
+P060,Monica Logan,neurology,Dr. Rao,24-06-2025,04-07-2025,10,No,45901.05,cheque,Typo in dept
+P061,Brittney Phillips,Pediatrics,Dr. Shah,09-08-2025,15-08-2025,6,yes,39471.16,cash,Typo in dept
+P062,Kimberly Adkins,cardiology,Dr. Iyer,14-04-2025,21-04-2025,7,YES,9431.77,Online,NULL
+P063,John Calhoun,oncology,Dr. White,14-04-2025,17-04-2025,3,yes,23198.48,cheque,Typo in dept
+P064,Tyler Miller,Cardiology,Dr. Mehta,15-07-2025,23-07-2025,8,Yes,52120.26,online,Typo in dept
+P065,Barry Hensley,cardiology,Dr. Iyer,09-05-2025,17-05-2025,8,YES,46113.36,Cheque,Typo in dept
+P066,Steve Sanchez,orthopedics,Dr. Singh,20-06-2025,22-06-2025,2,NO,41788.05,online,NULL
+P067,Bradley Sandoval,Oncology,Dr. White,27-07-2025,06-08-2025,10,yes,37554.1,Cash,
+P068,Taylor Harris,Oncology,Dr. White,21-07-2025,25-07-2025,4,NO,25850.71,Cheque,Typo in dept
+P069,Derek Anderson,pediatrics,Dr. Fernandes,20-08-2025,28-08-2025,8,yes,18874.93,Credit Card,Typo in dept
+P070,Eugene Walton,Cardiology,Dr. Mehta,06-08-2025,13-08-2025,7,Yes,47967.82,Cash,
+P071,Marc Hart,Orthopedics,Dr. Patel,17-04-2025,28-04-2025,11,No,11942.15,Credit Card,Duplicate spelling
+P072,Daniel Baker,orthopedics,Dr. Singh,22-04-2025,06-05-2025,14,No,38324.1,Credit Card,NULL
+P073,Sherry Wood,Pediatrics,Dr. Shah,09-06-2025,15-06-2025,6,yes,26815.99,Cheque,
+P074,Joshua Turner,neurology,Dr. Kumar,03-05-2025,17-05-2025,14,YES,49304.04,Cash,Missing discharge
+P075,Aimee Montoya,Neurology,Dr. Rao,06-09-2025,09-09-2025,3,NO,5695.87,online,Typo in dept
+P076,Ashley Humphrey,cardiology,Dr. Iyer,31-05-2025,12-06-2025,12,No,28951.79,cash,Duplicate spelling
+P077,Brian Tran,Neurology,Dr. Rao,24-05-2025,08-06-2025,15,YES,19761.75,Cheque,
+P078,Daniel Cooper,Pediatrics,Dr. Fernandes,25-05-2025,03-06-2025,9,YES,41750.37,credit card,
+P079,Deborah Freeman,oncology,Dr. Banerjee,14-08-2025,19-08-2025,5,NO,23718.64,cash,Duplicate spelling
+P080,Amber Walters,Cardiology,Dr. Mehta,25-09-2025,,,yes,31871.78,Cheque,Typo in dept
+P081,Aaron Wise,oncology,Dr. Banerjee,11-09-2025,14-09-2025,3,No,27242.06,Cheque,Missing discharge
+P082,Candice Ramos,neurology,Dr. Rao,04-08-2025,14-08-2025,10,yes,59814.73,credit card,Missing discharge
+P083,Adam Jones,Oncology,Dr. Banerjee,18-08-2025,23-08-2025,5,No,22355.14,Online,NULL
+P084,Brittany Johnson,Orthopedics,Dr. Singh,21-09-2025,02-10-2025,11,YES,20564.93,Credit Card,NULL
+P085,Brittany Anderson,Pediatrics,Dr. Shah,13-06-2025,19-06-2025,6,YES,11962.06,Cash,
+P086,Timothy Stanton,Neurology,Dr. Rao,01-06-2025,05-06-2025,4,yes,10642.32,Cash,Duplicate spelling
+P087,Christine Wright,Pediatrics,Dr. Fernandes,10-04-2025,17-04-2025,7,Yes,18886.31,cheque,
+P088,Justin Baxter,Cardiology,Dr. Iyer,22-04-2025,03-05-2025,11,Yes,13344.99,cash,
+P089,Tammy Young,Orthopedics,Dr. Patel,01-08-2025,09-08-2025,8,YES,48490.75,Cheque,Duplicate spelling
+P090,Rita Keith,Oncology,Dr. Banerjee,04-05-2025,10-05-2025,6,yes,21795.91,Cash,Duplicate spelling
+P091,Tim Patton,Cardiology,Dr. Mehta,07-04-2025,13-04-2025,6,Yes,13638.14,Online,Duplicate spelling
+P092,Sharon Cochran,cardiology,Dr. Mehta,21-06-2025,,,YES,30845.19,Cash,NULL
+P093,Michael Reyes,Pediatrics,Dr. Fernandes,24-05-2025,02-06-2025,9,No,55815.11,Cheque,Typo in dept
+P094,Courtney Velasquez,Cardiology,Dr. Mehta,10-04-2025,16-04-2025,6,Yes,8280.09,cash,Duplicate spelling
+P095,Robert Savage,Neurology,Dr. Rao,01-07-2025,10-07-2025,9,NO,43485.35,cash,Duplicate spelling
+P096,Corey Murphy,Neurology,Dr. Rao,16-05-2025,27-05-2025,11,yes,45399.37,cash,
+P097,Raymond Bell,Cardiology,Dr. Mehta,17-09-2025,02-10-2025,15,YES,57293.25,cash,Duplicate spelling
+P098,William Herrera,cardiology,Dr. Mehta,10-07-2025,22-07-2025,12,NO,14981.9,online,Typo in dept
+P099,Wesley White,cardiology,Dr. Iyer,08-04-2025,15-04-2025,7,Yes,52175.32,credit card,Typo in dept
+P100,Kyle Reed,Oncology,Dr. Banerjee,24-05-2025,01-06-2025,8,Yes,30015.42,credit card,Missing discharge

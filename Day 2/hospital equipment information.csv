@@ -1,0 +1,101 @@
+Equipment_ID,Equipment_Name,Department,Purchase_Date,Warranty_Years,Cost,Supplier_Name,Status,Notes
+E001,ECG Machine,Cardiology,12-05-2023,5,150000,MedEquip Co.,Working,Calibration required
+E002,X-Ray Machine,Radiology,20-08-2022,7,500000,Radiant Supplies,Under Repair,Replacement next year
+E003,MRI Scanner,Radiology,15-11-2021,10,3500000,Imaging Pro,Working,-
+E004,Ventilator,ICU,05-02-2023,3,120000,HealthTech,Working,Spare parts available
+E005,Infusion Pump,ICU,10-06-2022,3,45000,MedEquip Co.,Out of Service,Needs maintenance
+E006,Defibrillator,Cardiology,18-01-2023,5,200000,MedEquip Co.,Working,-
+E007,Ultrasound,Radiology,22-12-2022,7,750000,Imaging Pro,Under Repair,Calibration required
+E008,Oxygen Concentrator,ICU,15-04-2023,3,35000,HealthTech,Working,-
+E009,Patient Monitor,ICU,11-09-2022,4,80000,MedEquip Co.,Working,"Calibration required, Replacement next year"
+E010,Infusion Pump,ICU,10-03-2023,3,46000,MedEquip Co.,Working,Replacement next year
+E011,CT Scanner,Radiology,25-07-2021,10,2800000,Imaging Pro,Working,-
+E012,Anesthesia Machine,OT,30-01-2022,5,250000,HealthTech,Working,-
+E013,Suction Machine,ICU,05-06-2023,3,40000,MedEquip Co.,Working,-
+E014,Defibrillator,Cardiology,12-11-2022,5,210000,MedEquip Co.,Under Repair,Spare battery needed
+E015,Infusion Pump,ICU,15-08-2021,3,47000,MedEquip Co.,Out of Service,Repair overdue
+E016,X-Ray Machine,Radiology,28-02-2023,7,510000,Radiant Supplies,Working,-
+E017,Ultrasound,Radiology,20-10-2022,7,760000,Imaging Pro,Working,"Calibration required, Replacement next year"
+E018,Oxygen Concentrator,ICU,22-03-2023,3,36000,HealthTech,Working,-
+E019,Patient Monitor,ICU,10-12-2021,4,82000,MedEquip Co.,Working,-
+E020,MRI Scanner,Radiology,15-05-2020,10,3550000,Imaging Pro,Under Repair,Service scheduled
+E021,ECG Machine,Cardiology,11-09-2021,5,152000,MedEquip Co.,Working,-
+E022,Ventilator,ICU,05-03-2022,3,118000,HealthTech,Working,-
+E023,Infusion Pump,ICU,02-05-2023,3,45500,MedEquip Co.,Working,-
+E024,Defibrillator,Cardiology,18-06-2022,5,205000,MedEquip Co.,Working,"Calibration required, Replacement next year"
+E025,Ultrasound,Radiology,01-12-2021,7,740000,Imaging Pro,Working,-
+E026,Oxygen Concentrator,ICU,20-08-2022,3,35500,HealthTech,Out of Service,"Needs repair, Service scheduled"
+E027,Patient Monitor,ICU,10-04-2023,4,81000,MedEquip Co.,Working,-
+E028,CT Scanner,Radiology,15-11-2020,10,2820000,Imaging Pro,Under Repair,Service pending
+E029,Anesthesia Machine,OT,28-02-2022,5,248000,HealthTech,Working,-
+E030,Suction Machine,ICU,18-05-2023,3,39500,MedEquip Co.,Working,-
+E031,Defibrillator,Cardiology,12-07-2021,5,212000,MedEquip Co.,Working,-
+E032,Infusion Pump,ICU,25-03-2023,3,46500,MedEquip Co.,Working,"Needs repair, Service scheduled"
+E033,X-Ray Machine,Radiology,05-09-2022,7,505000,Radiant Supplies,Working,-
+E034,Ultrasound,Radiology,22-01-2023,7,755000,Imaging Pro,Working,-
+E035,Oxygen Concentrator,ICU,11-07-2022,3,36200,HealthTech,Working,-
+E036,Patient Monitor,ICU,20-06-2021,4,83000,MedEquip Co.,Working,-
+E037,MRI Scanner,Radiology,15-03-2020,10,3560000,Imaging Pro,Working,-
+E038,ECG Machine,Cardiology,12-11-2022,5,153000,MedEquip Co.,Working,"Needs repair, Service scheduled"
+E039,Ventilator,ICU,10-06-2023,3,122000,HealthTech,Working,-
+E040,Infusion Pump,ICU,05-04-2022,3,45200,MedEquip Co.,Working,-
+E041,Defibrillator,Cardiology,18-08-2021,5,208000,MedEquip Co.,Working,-
+E042,Ultrasound,Radiology,20-12-2022,7,748000,Imaging Pro,Working,-
+E043,Oxygen Concentrator,ICU,15-03-2023,3,35800,HealthTech,Working,"Needs repair, Service scheduled"
+E044,Patient Monitor,ICU,10-05-2021,4,82500,MedEquip Co.,Working,-
+E045,CT Scanner,Radiology,25-06-2020,10,2795000,Imaging Pro,Working,-
+E046,Anesthesia Machine,OT,30-03-2022,5,251000,HealthTech,Working,-
+E047,Suction Machine,ICU,05-07-2023,3,40200,MedEquip Co.,Working,"Needs repair, Service scheduled"
+E048,Defibrillator,Cardiology,12-10-2022,5,207000,MedEquip Co.,Working,-
+E049,Infusion Pump,ICU,15-09-2021,3,46800,MedEquip Co.,Working,-
+E050,X-Ray Machine,Radiology,28-02-2023,7,508000,Radiant Supplies,Working,-
+E051,Ultrasound,Radiology,20-11-2022,7,752000,Imaging Pro,Working,-
+E052,Oxygen Concentrator,ICU,12-05-2023,3,36000,HealthTech,Working,-
+E053,Patient Monitor,ICU,10-07-2021,4,81800,MedEquip Co.,Working,-
+E054,MRI Scanner,Radiology,15-08-2020,10,3545000,Imaging Pro,Under Repair,Calibration pending
+E055,ECG Machine,Cardiology,12-06-2022,5,151500,MedEquip Co.,Working,-
+E056,Ventilator,ICU,05-01-2023,3,121000,HealthTech,Working,-
+E057,Infusion Pump,ICU,10-08-2022,3,45700,MedEquip Co.,Working,-
+E058,Defibrillator,Cardiology,18-11-2021,5,209000,MedEquip Co.,Working,-
+E059,Ultrasound,Radiology,22-10-2022,7,749500,Imaging Pro,Working,-
+E060,Oxygen Concentrator,ICU,15-03-2023,3,35900,HealthTech,Working,-
+E061,Patient Monitor,ICU,10-12-2021,4,82200,MedEquip Co.,Working,-
+E062,CT Scanner,Radiology,25-11-2020,10,2815000,Imaging Pro,Working,-
+E063,Anesthesia Machine,OT,30-01-2022,5,249500,HealthTech,Working,-
+E064,Suction Machine,ICU,05-06-2023,3,39800,MedEquip Co.,Working,-
+E065,Defibrillator,Cardiology,12-07-2021,5,211000,MedEquip Co.,Working,-
+E066,Infusion Pump,ICU,25-03-2023,3,46300,MedEquip Co.,Working,-
+E067,X-Ray Machine,Radiology,05-09-2022,7,506500,Radiant Supplies,Working,-
+E068,Ultrasound,Radiology,22-01-2023,7,757000,Imaging Pro,Working,-
+E069,Oxygen Concentrator,ICU,11-07-2022,3,36100,HealthTech,Working,-
+E070,Patient Monitor,ICU,20-06-2021,4,83200,MedEquip Co.,Working,-
+E071,MRI Scanner,Radiology,15-03-2020,10,3570000,Imaging Pro,Under Repair,Service scheduled
+E072,ECG Machine,Cardiology,12-11-2022,5,154000,MedEquip Co.,Working,-
+E073,Ventilator,ICU,10-06-2023,3,123000,HealthTech,Working,-
+E074,Infusion Pump,ICU,05-04-2022,3,45400,MedEquip Co.,Working,-
+E075,Defibrillator,Cardiology,18-08-2021,5,206500,MedEquip Co.,Working,-
+E076,Ultrasound,Radiology,20-12-2022,7,746500,Imaging Pro,Working,-
+E077,Oxygen Concentrator,ICU,15-03-2023,3,35700,HealthTech,Working,-
+E078,Patient Monitor,ICU,10-05-2021,4,82800,MedEquip Co.,Working,-
+E079,CT Scanner,Radiology,25-06-2020,10,2805000,Imaging Pro,Working,-
+E080,Anesthesia Machine,OT,30-03-2022,5,250500,HealthTech,Working,-
+E081,Suction Machine,ICU,05-07-2023,3,40100,MedEquip Co.,Working,-
+E082,Defibrillator,Cardiology,12-10-2022,5,207500,MedEquip Co.,Working,-
+E083,Infusion Pump,ICU,15-09-2021,3,46900,MedEquip Co.,Working,-
+E084,X-Ray Machine,Radiology,28-02-2023,7,509500,Radiant Supplies,Working,-
+E085,Ultrasound,Radiology,20-11-2022,7,753000,Imaging Pro,Working,-
+E086,Oxygen Concentrator,ICU,12-05-2023,3,36200,HealthTech,Working,-
+E087,Patient Monitor,ICU,10-07-2021,4,82050,MedEquip Co.,Working,-
+E088,MRI Scanner,Radiology,15-08-2020,10,3555000,Imaging Pro,Under Repair,Calibration pending
+E089,ECG Machine,Cardiology,12-06-2022,5,152500,MedEquip Co.,Working,-
+E090,Ventilator,ICU,05-01-2023,3,120500,HealthTech,Working,-
+E091,Infusion Pump,ICU,10-08-2022,3,45600,MedEquip Co.,Working,-
+E092,Defibrillator,Cardiology,18-11-2021,5,208500,MedEquip Co.,Working,-
+E093,Ultrasound,Radiology,22-10-2022,7,751000,Imaging Pro,Working,-
+E094,Oxygen Concentrator,ICU,15-03-2023,3,35850,HealthTech,Working,-
+E095,Patient Monitor,ICU,10-12-2021,4,82550,MedEquip Co.,Working,-
+E096,CT Scanner,Radiology,25-11-2020,10,2810000,Imaging Pro,Working,-
+E097,Anesthesia Machine,OT,30-01-2022,5,249800,HealthTech,Working,-
+E098,Suction Machine,ICU,05-06-2023,3,39950,MedEquip Co.,Working,-
+E099,Defibrillator,Cardiology,12-07-2021,5,210500,MedEquip Co.,Working,-
+E100,Infusion Pump,ICU,25-03-2023,3,46400,MedEquip Co.,Working,-
